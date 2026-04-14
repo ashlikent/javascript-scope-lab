@@ -1,5 +1,5 @@
 const burgers = [ 'Hamburger' , 'Cheeseburger' ];
-let featuredDrink = 'Strawberry Milkshake' ;
+const featuredDrink = 'Strawberry Milkshake' ;
 function addBurger() {
     const newBurger = 'Flatburger';
     burgers.push(newBurger) ;
