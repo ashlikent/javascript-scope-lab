@@ -4,8 +4,8 @@ function addBurger() {
     const newBurger = 'Flatburger';
     burgers.push(newBurger) ;
 }
-if (true) {
-    let anotherNewBurger = 'Maple Bacon Burger' ;
+if(true) {
+    const anotherNewBurger = 'Maple Bacon Burger' ;
     burgers.push(anotherNewBurger) ;
 }
 function changeFeatureDrink() {
