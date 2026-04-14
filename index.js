@@ -1,4 +1,4 @@
-let burgers = [ 'Hamburger' , 'Cheeseburger' ];
+const burgers = [ 'Hamburger' , 'Cheeseburger' ];
 let featuredDrink = 'Strawberryy Milkshake' ;
 function addBurger() {
     let newBurger = 'Flatburger';
@@ -11,4 +11,4 @@ if (true) {
 function changeFeatureDrink() {
     featuredDrink = 'The JavaShake' ;
 }
-// Write your solution in this file!
+// Write your solution in this file!g
